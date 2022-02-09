@@ -1,0 +1,6 @@
+Check if the calculator is normal or scientific calculater
+Varify all the buttons are present or not and readeable
+Check arithmatic operations are working fine or not
+Varify the functioning of memory functions()
+Check if the calculator allows navigating through previous calculations
+Verify if the user can delete digits one by one using the backspace key
